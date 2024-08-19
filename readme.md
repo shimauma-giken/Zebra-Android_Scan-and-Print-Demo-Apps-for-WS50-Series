@@ -1,3 +1,6 @@
+## WS50デモ用アプリ（スキャンとBluetooth接続印刷）
+
+![](https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/ws50-data-review-photo-app-5x4-3600.jpg.imgo.jpg)
 
 WS50 シリーズのデモで利用可能なデモアプリのソースコードとそのガイド。
 
@@ -111,6 +114,13 @@ WS50 シリーズのデモで利用可能なデモアプリのソースコード
 
 <br>
 
+##### 印刷イメージ
+<img height="300" src="image/readme/1724065944775.png">
+
+
+<br>
+
+-----
 
 #### 参考：ZPL:Sample01.prnの構成
 
@@ -157,3 +167,8 @@ WS50 シリーズのデモで利用可能なデモアプリのソースコード
 ^PQ1,0,1
 ^XZ
 ```
+
+-----
+
+
+Enjoy Zebra!
